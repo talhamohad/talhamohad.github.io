@@ -21,7 +21,7 @@ repository               : "yashm8/yashm8.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   name             : "Yash Mali"
   pronouns         : "He/Him"  
   bio              : "Computer Science Student interested in Machine Learning and Optimization."
