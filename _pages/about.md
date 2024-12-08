@@ -34,12 +34,12 @@ As an IT Helpdesk Support member, I provided technical assistance to faculty, st
 Volunteering  
 ------
 
-### UBC Uncrewed Aircraft Systems  
+### [UBC Uncrewed Aircraft Systems](https://ubcuas.com/)  
 *September 2024 – Present*  
 
 As a leader of the Machine Learning (ML) sub-team, I am contributing to an international university-level autonomous drone competition. My work involves utilizing deep learning based technologies develop and refine autonomous drone systems.
 
-### UBC AI Club  
+### [UBC AI Club](https://www.instagram.com/ubcaiclub/)
 *September 2024 – Present*  
 
 I am leading two teams on ML/AI-related projects, focusing on innovative applications of machine learning techniques. This role involves project management, mentoring team members, and delivering impactful solutions using state-of-the-art AI technologies.
