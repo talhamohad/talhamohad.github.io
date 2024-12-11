@@ -37,10 +37,16 @@ Volunteering
 ### [UBC Uncrewed Aircraft Systems](https://ubcuas.com/) ✈️
 *September 2024 – Present*  
 
-As a leader of the Machine Learning (ML) sub-team, I am contributing to an international university-level autonomous drone competition. My work involves utilizing deep learning based technologies develop and refine autonomous drone systems.
+As the leader of the Machine Learning (ML) sub-team, I am contributing to an international university-level autonomous drone competition. My work involves utilizing deep learning based technologies develop and refine autonomous drone systems.
 
 ### [UBC AI Club](https://www.instagram.com/ubcaiclub/) 🦾
 *September 2024 – Present*  
 
 I am leading two teams on ML/AI-related projects, focusing on innovative applications of machine learning techniques. This role involves project management, mentoring team members, and delivering impactful solutions using state-of-the-art AI technologies.
 
+Selected Projects
+------
+### [Visualizing Neural Network Feature Transformations]([https://ubcuas.com/](https://yashm8.github.io/neural-vis.html) ✈️
+Takes some time to load. Made with TensorFlow JS.
+
+  
