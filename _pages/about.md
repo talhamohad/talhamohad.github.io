@@ -46,7 +46,7 @@ I am leading two teams on ML/AI-related projects, focusing on innovative applica
 
 Selected Projects
 ------
-### [Visualizing Neural Network Feature Transformations]([https://ubcuas.com/](https://yashm8.github.io/neural-vis.html) ✈️
+### [Visualizing Neural Network Feature Transformations](https://yashm8.github.io/neural-vis.html) ✖️➕
 Takes some time to load. Made with TensorFlow JS.
 
   
