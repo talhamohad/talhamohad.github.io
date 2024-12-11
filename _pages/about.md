@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋🏼 I am an undergraduate student at the University of British Columbia ([UBC](https://www.ubc.ca/)) interested in Machine Learning (ML), Artificial Intelligence (AI) and Optimization. I have worked as a Research Assistant (RA) applying AI to many fields. I am passionate about understanding how large neural networks work to develop safe and interpretable AI. 
+👋🏼 I am an undergraduate student at the University of British Columbia ([UBC](https://www.ubc.ca/)) interested in Machine Learning/Artificial Intelligence and Optimization. I have worked as a Research Assistant (RA) applying AI to many fields and as a software engineer. I am passionate about understanding how large neural networks work to develop safe and interpretable AI. 
 
 I am the ML Lead for UBC [Uncrewed Aerial Systems](https://ubcuas.com/) (UAS) and the director of ML at the UBC AI club. 
 
